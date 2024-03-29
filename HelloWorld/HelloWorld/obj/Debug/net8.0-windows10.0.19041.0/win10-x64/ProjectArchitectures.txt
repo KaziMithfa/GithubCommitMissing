@@ -1,0 +1,1 @@
+E:\study\Software Project\Practice MAUI application\HelloWorld\HelloWorld\HelloWorld.csproj;x64
